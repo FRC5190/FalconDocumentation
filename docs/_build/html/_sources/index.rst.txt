@@ -6,15 +6,10 @@
 Welcome to FalconDocumentation!
 ===============================================
 
+Documentation for the 5190 Falcons Robotics Programming Team.
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   
+   contributing

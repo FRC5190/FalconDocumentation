@@ -26,6 +26,19 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme = 'alabaster'
 html_theme = 'furo'
 
-html_title = 'FalconDocumentation'
+html_theme_options = {
+    # color scheme: https://coolors.co/776871-e8fccf
+    "light_css_variables": {
+        "color-brand-content": "#776871",
+    },
+    "dark_css_variables": {
+        "color-brand-content": "#E8FCCF",
+    },
+
+    "announcement": "This project is still in development. There might be some missing content.",
+}
+
+
+html_title = 'Falcon Documentation'
 
 html_static_path = ['_static']
