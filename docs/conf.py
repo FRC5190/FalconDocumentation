@@ -38,6 +38,7 @@ html_theme_options = {
     "announcement": "This project is still in development. There might be some missing content.",
 }
 
+# html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
 
 html_title = 'Falcon Documentation'
 
