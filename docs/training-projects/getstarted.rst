@@ -109,10 +109,48 @@ Create Your Own GitHub Repository
    - Choose a location on your computer where you want to store your repository.
    - Click on "Create Repository".
 2. Open your Repository in VS Code
-   -----------------------------
+   -------------------------------
    To open your repository in VS Code, follow these steps:
 
    - Go to GitHub Desktop and click on "Repository" → "Open in Visual Studio Code" in the top-left corner of the window.
    - VS Code will open your repository in a new window.
-   
+3. Create a New File
+   -----------------
+   To create a new file in your repository, follow these steps:
+
+   - In VS Code, click on "File" → "New File" in the top-left corner of the window.
+   - Choose a name for your file, but make sure it ends with :code:`.java`
+   - Make sure to save using *Ctrl + S* or "File" → "Save" in the top-left corner of the window.
+4. Run your Java code
+   -------------------
+   To run your Java code, follow these steps:
+
+   - In VS Code, click on the "Play" in the top right corner of the window.
+5. Commit your Changes
+   --------------------
+   To commit your changes, follow these steps:
+
+   - Open GitHub Desktop and click on "Changes" in the top-left corner of the window.
+   - Enter a summary and description for your commit in the bottom left corner.
+   - Click on "Commit to main".
+   - Click on "Push origin" in the top-right corner of the window.
+6. View your Repository on GitHub
+   ------------------------------
+   To view your repository on GitHub, follow these steps:
+
+   - Open GitHub Desktop and click on "Repository" → "View on GitHub" in the top-left corner of the window.
+   - GitHub will open your repository in a new browser tab.
+7. Make Repository Public
+   -----------------------
+   To make your repository public, follow these steps:
+
+   - On the GitHub website, click on "Settings" in the top-right corner of the page.
+   - Scroll down to the "Danger Zone" section.
+   - Click on "Make public".
+   - Enter the name of your repository and click on "I understand, make this repository public".
+   - Your repository will now be public and accessible to everyone.
+
+
+Congratulations! You have successfully created your own GitHub repository and made it public.
+
 

@@ -15,7 +15,7 @@ Documentation for the 5190 Falcons Robotics Programming Team.
    contributing
 
 .. toctree::
-   :caption: Training Projects:
+   :caption: Preseason Training:
    :hidden:
 
    training-projects/index
