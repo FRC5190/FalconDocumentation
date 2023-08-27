@@ -10,6 +10,6 @@ Training Projects
     getstarted
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     week-0-project
