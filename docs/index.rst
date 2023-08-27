@@ -11,8 +11,10 @@ Documentation for the 5190 Falcons Robotics Programming Team.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
-
    contributing
-   getstarted
 
+.. toctree::
+   :caption: Training Projects:
+   :hidden:
+
+   training-projects/index

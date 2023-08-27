@@ -96,3 +96,23 @@ To get started with GitHub, follow these steps to create an account and download
 
 Congratulations! You have created a GitHub account and installed GitHub Desktop on your computer.
 You can now view some of our `previous robot's code <https://github.com/FRC5190>`_!
+
+Create Your Own GitHub Repository
+---------------------------------
+1. Create a New Repository
+   ------------------------
+   To create a new repository, follow these steps:
+
+   - Go to GitHub Desktop and click on "File" → "Create a New Repository" in the top-left corner of the window.
+   - Choose a name for your repository.
+   - Optionally, provide a description for your repository.
+   - Choose a location on your computer where you want to store your repository.
+   - Click on "Create Repository".
+2. Open your Repository in VS Code
+   -----------------------------
+   To open your repository in VS Code, follow these steps:
+
+   - Go to GitHub Desktop and click on "Repository" → "Open in Visual Studio Code" in the top-left corner of the window.
+   - VS Code will open your repository in a new window.
+   
+

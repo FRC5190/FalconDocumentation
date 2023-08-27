@@ -141,7 +141,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <div class="visually-hidden">Toggle table of contents sidebar</div>
         <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
       </label>
@@ -161,10 +161,17 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
-<ul>
+  <ul>
 <li class="toctree-l1"><a class="reference internal" href="contributing.html">How to Contribute</a></li>
-<li class="toctree-l1"><a class="reference internal" href="getstarted.html">Getting Started</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Training Projects:</span></p>
+<ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="training-projects/index.html">Training Projects</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Training Projects</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="training-projects/week-0-project.html">Week 0 Project: Mad Libs Generator</a></li>
+<li class="toctree-l2"><a class="reference internal" href="training-projects/getstarted.html">Getting Started</a></li>
+<li class="toctree-l2"><a class="reference internal" href="training-projects/week-0-project.html">Week 0 Project: Mad Libs Generator</a></li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -193,7 +200,7 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <div class="visually-hidden">Toggle table of contents sidebar</div>
             <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
           </label>
@@ -203,11 +210,18 @@
 <h1>Welcome to FalconDocumentation!<a class="headerlink" href="#welcome-to-falcondocumentation" title="Permalink to this heading">#</a></h1>
 <p>Documentation for the 5190 Falcons Robotics Programming Team.</p>
 <div class="toctree-wrapper compound">
-<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="contributing.html">How to Contribute</a></li>
-<li class="toctree-l1"><a class="reference internal" href="getstarted.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contributing.html">How to Contribute</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="contributing.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="contributing.html#prerequisites">Prerequisites</a></li>
+<li class="toctree-l2"><a class="reference internal" href="contributing.html#cloning">Cloning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="contributing.html#building">Building</a></li>
+<li class="toctree-l2"><a class="reference internal" href="contributing.html#pushing-changes">Pushing Changes</a></li>
 </ul>
+</li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -244,8 +258,26 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Welcome to FalconDocumentation!</a><ul>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>
