@@ -13,3 +13,4 @@ Training Projects
     :maxdepth: 1
 
     week-0-project
+    week-1-project
