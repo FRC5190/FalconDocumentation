@@ -1,5 +1,5 @@
-Week 1 Project: WordLink Challenge
-==================================
+Week 1 Project: Guess the Number Challenge
+==========================================
 
 Project Description
 -------------------
