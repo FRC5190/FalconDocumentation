@@ -37,8 +37,6 @@ html_theme_options = {
     "dark_css_variables": {
         "color-brand-content": "#E8FCCF",
     },
-
-    "announcement": "This project is still in development. There might be some missing content.",
 }
 
 # html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
