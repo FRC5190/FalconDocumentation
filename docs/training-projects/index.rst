@@ -14,3 +14,4 @@ Training Projects
 
     week-0-project
     week-1-project
+    week-2-project
