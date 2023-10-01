@@ -4,9 +4,9 @@ Week 0 Project: Mad Libs Generator
 
 Project Description
 -------------------
-| Ask the user to input various types of words (nouns, verbs, adjectives, etc.), then use those words to fill in the blanks of a pre-written story, and finally print out the complete story.
+Ask the user to input various types of words (nouns, verbs, adjectives, etc.), then use those words to fill in the blanks of a pre-written story, and finally print out the complete story.
 
-| `What is Mad Libs? <https://en.wikipedia.org/wiki/Mad_Libs#Format>`_
+`What is Mad Libs? <https://en.wikipedia.org/wiki/Mad_Libs#Format>`_
 
 Criteria
 --------
